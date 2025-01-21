@@ -1,5 +1,9 @@
 <h4>Encender Docker</h4>
 <p>sudo docker compose up</p>
+<h4>MySQL dar permisos</h4>
+<p>CREATE USER 'root'@'10.14.0.241' IDENTIFIED BY 'root';</p>
+<p>GRANT ALL PRIVILEGES ON *.* TO 'root'@'10.14.0.241';</p>
+<p>FLUSH PRIVILEGES;</p>
 </br>
 </br>
 <p>----------------------------------------</p>
