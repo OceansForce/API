@@ -27,3 +27,9 @@
 
 <p>Instalar API--> php artisan install:api</p>
 <p>Crear modelo de tabla--> php artisan make:model "nombre" -a --api</p>
+
+<p>------------------------------------------</p>
+<h4>Yaak</h4>
+<p>Token</p>
+<p>Accept / application/json</p>
+<p>Authorization / Bearer id|token</p>
